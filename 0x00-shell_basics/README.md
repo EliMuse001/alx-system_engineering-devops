@@ -1,1 +1,1 @@
-Shell basics Scripts
+ pwd - Printing path of working directory
