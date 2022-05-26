@@ -7,3 +7,4 @@ Displaying cureent directory contents in long format, with user and group Id's a
 Create new directory in a tmp directory
 Move the file betty from /tmp/ to /tmp/my_first_directory.
 Deleting File betty
+Deleting my_first_directory
