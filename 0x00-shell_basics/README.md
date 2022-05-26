@@ -5,3 +5,4 @@ ls -l displays the current directory contents in a long format
 Display current directory contents, including hidden files
 Displaying cureent directory contents in long format, with user and group Id's and hidden files
 Create new directory in a tmp directory
+Move the file betty from /tmp/ to /tmp/my_first_directory.
