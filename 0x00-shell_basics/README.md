@@ -8,3 +8,4 @@ Create new directory in a tmp directory
 Move the file betty from /tmp/ to /tmp/my_first_directory.
 Deleting File betty
 Deleting my_first_directory
+Command for writinga script that changes the working directory to the previous one
