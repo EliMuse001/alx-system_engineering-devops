@@ -10,3 +10,4 @@ Deleting File betty
 Deleting my_first_directory
 Command for writinga script that changes the working directory to the previous one
  Listing all files including hidden files in current working directory and boot directory
+Dipslaying type of file
