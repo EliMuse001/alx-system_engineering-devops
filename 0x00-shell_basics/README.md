@@ -11,3 +11,4 @@ Deleting my_first_directory
 Command for writinga script that changes the working directory to the previous one
  Listing all files including hidden files in current working directory and boot directory
 Dipslaying type of file
+Create a script that copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory.
