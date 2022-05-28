@@ -7,3 +7,4 @@ A script that adds execute permission to the owner and the group owner, and read
 A cript that adds execution permission to the owner, the group owner and the other users, to the file hello
  a script that sets the permission to the file hello as follows:
  a script that sets the permission to the file hello as follows:Owner- no permissions, Group-no permissions at all
+ a script that sets the mode of the file hello the same as olleh’s mode.
